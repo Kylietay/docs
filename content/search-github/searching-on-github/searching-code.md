@@ -15,7 +15,8 @@ versions:
 topics:
   - GitHub search
 ---
-{% data reusables.search.you-can-search-globally %} For more information, see "[About searching on GitHub](/search-github/getting-started-with-searching-on-github/about-searching-on-github)."
+{% data reusables.search.you-can-search-globally %} For more information, see "[About s[nmos-certificate-provisioning-1.0.0.tar.gz](https://github.com/github/docs/files/7737511/nmos-certificate-provisioning-1.0.0.tar.gz)
+earching on GitHub](/search-github/getting-started-with-searching-on-github/about-searching-on-github)."
 
 You can only search code using these code search qualifiers. Search qualifiers specifically for repositories, users, or commits, will not work when searching for code.
 
